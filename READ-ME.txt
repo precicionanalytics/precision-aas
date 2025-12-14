@@ -7,3 +7,6 @@
   =>  Template Author  : HTML Codex
 
   =>  Author Website   : https://htmlcodex.com
+
+  i am hosting this website in netlify, i make the changes from visual studio code, then i push it from github desktop. It automatically builds and deploy to the netlify.
+  to check build and deploy, i just login to netlify using precision account and it shows there.
